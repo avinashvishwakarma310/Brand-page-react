@@ -1,6 +1,6 @@
 # Brand Page made with react.
-<img width="1158" alt="image" src="https://.png">
-![Screenshot (23)](https://github.com/avinashvishwakarma310/Brand-page-react/assets/114223255/619d858d-3256-4804-a208-65db369d9429)
+<img width="1158" alt="image" src="https://github.com/avinashvishwakarma310/Brand-page-react/assets/114223255/619d858d-3256-4804-a208-65db369d9429.png">
+
 
 
 # React + Vite
